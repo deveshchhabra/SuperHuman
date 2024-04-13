@@ -1,0 +1,111 @@
+import React from 'react'
+
+const page = () => {
+  return (
+    <div className='text-white'>
+        <input className='border border-white' type='text'></input>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+        <div>Title</div>
+
+        </div>
+  )
+}
+
+export default page
